@@ -1,7 +1,6 @@
 # 🏎️ Hand Gesture Racing Game 🏎️
 
 ![Game Screenshot](https://github.com/ahnafyura/Car_Game_with_handGesture/images/car.png)
-_Ganti URL di atas dengan link gambar screenshot game Anda. Anda bisa mengunggah gambar ke repositori dan mendapatkan linknya._
 
 ## 📄 Deskripsi Proyek
 
