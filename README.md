@@ -52,8 +52,7 @@ Pastikan Anda memiliki Python 3.x terinstal di sistem Anda.
 1.  **Clone Repositori:**
     Buka terminal atau command prompt Anda dan jalankan perintah berikut untuk mengunduh proyek:
     ```bash
-    git clone [https://github.com/NamaPenggunaAnda/NamaRepositoriAnda.git](https://github.com/NamaPenggunaAnda/NamaRepositoriAnda.git)
-    cd NamaRepositoriAnda
+    git clone https://github.com/ahnafyura/Car_Game_with_handGesture.git
     ```
     *(Ganti `NamaPenggunaAnda` dan `NamaRepositoriAnda` dengan nama pengguna dan nama repositori GitHub Anda)*
 
