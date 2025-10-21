@@ -2,7 +2,7 @@
 
 ![Game Screenshot](https://github.com/ahnafyura/Car_Game_with_handGesture/blob/main/images/car.png)
 
-## 📄 Deskripsi Proyek
+## 📄 Deskripsi Proyek 
 
 Proyek ini adalah implementasi game balap mobil 2D bergaya *top-down* yang unik, di mana kontrol mobil tidak menggunakan keyboard atau gamepad, melainkan **gerakan tangan yang dideteksi secara *real-time* melalui webcam**. Game ini menggabungkan kekuatan Pygame untuk grafis dan simulasi fisika sederhana, dengan MediaPipe Hands untuk pelacakan *landmark* tangan yang presisi.
 
