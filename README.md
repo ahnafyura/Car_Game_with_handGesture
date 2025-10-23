@@ -8,7 +8,7 @@ Proyek ini adalah implementasi game balap mobil 2D bergaya *top-down* yang unik,
 
 Tujuan utama proyek ini adalah untuk menciptakan pengalaman bermain game yang inovatif dan imersif, memanfaatkan teknologi *computer vision* untuk interaksi yang lebih intuitif.
 
-## ✨ Fitur Utama
+## ✨ Fitur Utama 
 
 * **Kontrol Gerakan Tangan:** Menggunakan webcam untuk mendeteksi posisi kedua tangan dan menerjemahkannya menjadi input kemudi (belok kiri/kanan).
 * **Game Balap 2D Top-Down:** Visualisasi sirkuit balap dan mobil dari perspektif atas.
