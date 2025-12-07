@@ -1,7 +1,5 @@
 # 🏎️ Hand Gesture Racing Game 🏎️
 
-## brum brumm
-
 ![Game Screenshot](https://github.com/ahnafyura/Car_Game_with_handGesture/blob/main/images/car.png)
 
 ## 📄 Deskripsi Proyek 
