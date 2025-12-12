@@ -1,4 +1,4 @@
-# 🏎️ Hand Gesture Racing Game 🏎️
+# 🏎️ Hand Gesture Racing Game 🏎️ 
 
 ![Game Screenshot](https://github.com/ahnafyura/Car_Game_with_handGesture/blob/main/images/car.png)
 
